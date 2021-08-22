@@ -2,7 +2,9 @@
 
 # 개요
 
-`aframe` 기반 웹 XR 틀린오브젝트 찾기 게임 웹 클라이언트 페이지 입니다.
+`aframe` 기반 웹 XR 틀린오브젝트 찾기 게임 [웹 클라이언트 페이지](https://aframe-tech-demo-client.herokuapp.com/) 입니다.
+
+
 
 ## 사용 기술
 
